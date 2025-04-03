@@ -77,7 +77,7 @@ MNE-Python and its dependencies. Typical output looks like this::
 
 If something else went wrong during installation and you can't figure it out,
 check out the :ref:`advanced_setup` instructions to see if your problem is
-discussed there. If not, the `MNE Forum`_ is a good resources for
+discussed there. If not, the `MNE Forum`_ is a good resource for
 troubleshooting installation problems.
 
 .. highlight:: python
